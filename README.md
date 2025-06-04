@@ -1,6 +1,6 @@
 # Twitch Combos Overlay Blocker
 
-🚫 **Block intrusive Twitch combos overlays that interrupt your viewing experience.**
+🚫 **Blocks Twitch New intrusive combo overlays that interrupt your viewing experience.**
 
 A lightweight userscript that automatically removes combos overlays on Twitch, allowing you to enjoy streams without pop-up interruptions.
 
